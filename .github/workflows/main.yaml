@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   integration:
-    name: Continuous Integration
+    name: Continuous billi Integration
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
